@@ -1,99 +1,84 @@
-# 👋 Hi, I'm Mrvttlsm
+<p align="center">
+  <img src="./assets/banner.svg" width="100%" />
+</p>
 
-**Software Engineer | FinTech | Java & Spring Boot Specialist**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=760&lines=Backend+Engineer;FinTech+%E2%80%A2+Java+Spring+Boot;London%2C+UK" />
+</p>
 
-Based in London, UK 🇬🇧 | 3+ Years of Production Experience
-
----
-
-## 🚀 About Me
-
-I'm a Software Engineer with 3+ years of professional experience building robust, scalable financial technology solutions. I specialize in backend development using **Java** and the **Spring Boot** ecosystem, with a proven track record of delivering high-quality systems in fast-paced FinTech environments.
-
-I'm passionate about clean code, system design, and solving complex technical challenges. Currently based in **London, UK**, I'm always open to collaborating on innovative projects and learning new technologies.
-
----
-
-## 💼 Professional Focus
-
-- **Backend Development**: Building microservices and RESTful APIs
-- **FinTech Solutions**: Payment systems, compliance, and financial data processing
-- **Spring Ecosystem**: Spring Boot, Spring Cloud, Spring Data, Spring Security
-- **Database Design**: SQL optimization, transaction management, data integrity
-- **Code Quality**: TDD, clean architecture, SOLID principles
-- **DevOps**: Docker, Kubernetes, CI/CD pipelines
+<p align="center">
+  <a href="https://www.linkedin.com/in/mervetatliesme/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:merve.tatliesme@gmail.com">
+    <img src="https://img.shields.io/badge/Email-1F2937?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## About Me
 
-**Languages & Frameworks:**
-- Java (Primary language)
-- Spring Boot / Spring Framework
-- Spring Cloud
-- REST APIs
-- SQL & NoSQL databases
+Backend Engineer with 3+ years of experience building fintech products, payment infrastructure, and distributed backend systems in London, UK.
 
-**Tools & Technologies:**
-- Docker & Kubernetes
-- Git & GitHub
-- PostgreSQL, MySQL, MongoDB
-- Redis
-- Apache Kafka
-- JUnit, Mockito
-- Maven, Gradle
+Experienced in designing scalable payment platforms, optimizing high-traffic services, and developing resilient backend systems where reliability, correctness, and performance matter.
 
-**Other Skills:**
+---
+
+## Engineering Highlights
+
+| Area | Impact |
+|------|--------|
+| Payments | Built and integrated payment processing systems |
+| Performance | Optimized database queries reducing response time by **40%+** |
+| Architecture | Designed and scaled microservices handling millions of transactions |
+| Reliability | Developed resilient asynchronous transaction workflows |
+| Code Quality | Implemented TDD and clean architecture practices |
+| Scalability | Built REST APIs serving **100k+ daily requests** |
+
+---
+
+## Tech Stack
+
+### Backend
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-111827?style=for-the-badge)
+![OAuth2](https://img.shields.io/badge/OAuth2-111827?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-111827?style=for-the-badge&logo=jsonwebtokens)
+
+### Cloud & DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-111827?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### Data & Messaging
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-111827?style=for-the-badge&logo=apachekafka)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Testing & Tools
+
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge)
+![Mockito](https://img.shields.io/badge/Mockito-111827?style=for-the-badge)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+
+---
+
+## Currently Interested In
+
+- Payment Infrastructure & FinTech
 - Microservices Architecture
-- System Design
-- API Design & Documentation
-- Performance Optimization
-- Agile & Scrum
-
----
-
-## 📈 Experience Highlights
-
-✅ **3+ years** building production-grade FinTech systems  
-✅ Designed and implemented **microservices** handling millions of transactions  
-✅ Optimized database queries reducing **response time by 40%+**  
-✅ Led code reviews and mentored junior developers  
-✅ Worked with **cross-functional teams** in fast-paced environments  
-✅ Built **RESTful APIs** serving **100k+ daily requests**
-
----
-
-## 🎯 What I'm Looking For
-
-- Challenging backend engineering roles in **FinTech or high-growth startups**
-- Projects involving **system design and architecture**
-- Opportunities to work with **modern tech stacks** and cutting-edge technologies
-- Collaborative teams focused on **code quality and innovation**
-
----
-
-## 📫 Get In Touch
-
-- **Email**: [merve.tatliesme@gmail.com](mailto:merve.tatliesme@gmail.com)
-- **LinkedIn**: [linkedin.com/in/mervetatliesme](https://linkedin.com/in/mervetatliesme)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrvttlsm&show_icons=true&theme=dark&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrvttlsm&layout=compact&theme=dark)
-
----
-
-## 💡 Featured Projects
-
-Check out my repositories to see what I've been working on. I focus on:
-- Production-ready backend systems
-- Well-documented code
-- Best practices in software engineering
-
----
-
-**Open to opportunities | Always learning | Let's build something great! 🚀**
+- Distributed Systems
+- System Design & Scalability
+- Event-Driven Architecture
+- Cloud-Native Backend Systems
