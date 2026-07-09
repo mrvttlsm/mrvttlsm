@@ -74,10 +74,8 @@ I'm passionate about clean code, system design, and solving complex technical ch
 
 ## 📫 Get In Touch
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
-- **Portfolio**: [yourwebsite.com](https://yourwebsite.com)
+- **Email**: [merve.tatliesme@gmail.com](mailto:merve.tatliesme@gmail.com)
+- **LinkedIn**: [linkedin.com/in/mervetatliesme](https://linkedin.com/in/mervetatliesme)
 
 ---
 
